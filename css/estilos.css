@@ -1,0 +1,14 @@
+.fondo_morado {
+    background-color: purple;
+
+}
+
+.texto_morado{
+    color: black;
+}
+
+img {
+    margin: 1em;
+    height: 200px;
+    width: 200px;
+}
